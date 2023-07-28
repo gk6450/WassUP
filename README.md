@@ -8,6 +8,7 @@ It includes the features like :
  ## Image Message
  ## Audio Message
  ## Message Status and Time 
+ ## Online/Offline Indication
  ## Unread Message Indication
  ## Voice Call
  ## Video Call
